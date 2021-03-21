@@ -24,3 +24,9 @@
 [SI&DI](https://github.com/Autovy/assembly_learning/blob/main/SI&DI.asm)：利用SI和DI将字符串复制到其后面的数据区
 
 [SI_optimize](https://github.com/Autovy/assembly_learning/blob/main/SI_optimize.asm)：利用[bx+idata]的方式优化SI&DI
+
+[double_array_simple](https://github.com/Autovy/assembly_learning/blob/main/double_array_simple.asm)：利用[bx+si]的方式实现二维数组，其中用寄存器来存储外循环cx
+
+[double_array_unit](https://github.com/Autovy/assembly_learning/blob/main/double_array_unit.asm)：对上面double_array_simple的优化，使用内存单元来来存储外循环cx
+
+[double_array_stack](https://github.com/Autovy/assembly_learning/blob/main/double_array_stack.asm)：对上面double_array_unit的再一次优化，使用栈段来存储外循环cx
