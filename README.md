@@ -1,5 +1,5 @@
 # assembly_learning
-新手入门，每天提交一点点汇编学习demo
+新手入门，每天提交一点点汇编学习demo，起个文件名好难 :(
 
 [base_demo](https://github.com/Autovy/assembly_learning/blob/main/base_demo.asm)：汇编语言基本框架
 
@@ -30,3 +30,9 @@
 [double_array_unit](https://github.com/Autovy/assembly_learning/blob/main/double_array_unit.asm)：对上面double_array_simple的优化，使用内存单元来来存储外循环cx
 
 [double_array_stack](https://github.com/Autovy/assembly_learning/blob/main/double_array_stack.asm)：对上面double_array_unit的再一次优化，使用栈段来存储外循环cx
+
+[div](https://github.com/Autovy/assembly_learning/blob/main/div.asm)：除法简单使用的demo
+
+[div_ram](https://github.com/Autovy/assembly_learning/blob/main/div_ram.asm)：dd伪指令的介绍，除法与内存单元的联合使用 :(
+
+
