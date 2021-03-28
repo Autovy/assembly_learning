@@ -1,5 +1,5 @@
 # assembly_learning
-新手入门，每天提交一点点汇编学习demo，起个文件名好难 :(
+新手入门，每天提交一点点汇编学习demo，暂时完成不再进行更新
 
 [base_demo](https://github.com/Autovy/assembly_learning/blob/main/base_demo.asm)：汇编语言基本框架
 
@@ -35,4 +35,35 @@
 
 [div_ram](https://github.com/Autovy/assembly_learning/blob/main/div_ram.asm)：dd伪指令的介绍，除法与内存单元的联合使用 :(
 
+[review]((https://github.com/Autovy/assembly_learning/blob/main/review.asm)：数据读取存放复习案例
+
+[offset]((https://github.com/Autovy/assembly_learning/blob/main/offset.asm)：利用offset获得偏移地址，实现指令复制
+
+[jmp]((https://github.com/Autovy/assembly_learning/blob/main/jmp.asm)：jmp跳转语句例子
+
+[jcxz]((https://github.com/Autovy/assembly_learning/blob/main/jcxz.asm)：条件跳转语句jcxz例子
+
+[ret]((https://github.com/Autovy/assembly_learning/blob/main/ret.asm)：ret跳转语句，利用栈中数据取出ip实现跳转
+
+[retf]((https://github.com/Autovy/assembly_learning/blob/main/retf.asm)：retf跳转语句，利用栈中数据取出cs:ip实现跳转
+
+[call&ret]((https://github.com/Autovy/assembly_learning/blob/main/call&ret.asm)：call与ret配合使用，实现函数调用
+
+[mul](https://github.com/Autovy/assembly_learning/blob/main/mul.asm)：mul指令实现乘法
+
+[call&ret demo](https://github.com/Autovy/assembly_learning/blob/main/call&ret%20demo)：call与ret实现函数调用
+
+[div_function](https://github.com/Autovy/assembly_learning/blob/main/div_function)：除法溢出解决方案
+
+[abc](https://github.com/Autovy/assembly_learning/blob/main/abc.asm)：使用abc的带进位加法运算
+
+[cmp](https://github.com/Autovy/assembly_learning/blob/main/cmp.asm)：cmp比较条件语句
+
+[cmp&jne](https://github.com/Autovy/assembly_learning/blob/main/cmp&jne)：cmp与jne配合使用实现算术运算符的条件语句
+
+[movsb](https://github.com/Autovy/assembly_learning/blob/main/movsb.asm)：movsb实现串传输
+
+[Interrupt](https://github.com/Autovy/assembly_learning/blob/main/Interrupt)：安装中断例程，让下面的Interrupt_call进行调用
+
+[Interrupt_call](https://github.com/Autovy/assembly_learning/blob/main/Interrupt_call)：调用自定义的中断例程
 
