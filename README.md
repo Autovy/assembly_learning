@@ -51,7 +51,7 @@
 
 [mul](https://github.com/Autovy/assembly_learning/blob/main/mul.asm)：mul指令实现乘法
 
-[call&ret demo](https://github.com/Autovy/assembly_learning/blob/main/call&ret%20demo)：call与ret实现函数调用
+[call&ret demo](https://github.com/Autovy/assembly_learning/blob/main/call&ret%20demo.asm)：call与ret实现函数调用
 
 [div_function](https://github.com/Autovy/assembly_learning/blob/main/div_function)：除法溢出解决方案
 
@@ -59,11 +59,11 @@
 
 [cmp](https://github.com/Autovy/assembly_learning/blob/main/cmp.asm)：cmp比较条件语句
 
-[cmp&jne](https://github.com/Autovy/assembly_learning/blob/main/cmp&jne)：cmp与jne配合使用实现算术运算符的条件语句
+[cmp&jne](https://github.com/Autovy/assembly_learning/blob/main/cmp&jne.asm)：cmp与jne配合使用实现算术运算符的条件语句
 
 [movsb](https://github.com/Autovy/assembly_learning/blob/main/movsb.asm)：movsb实现串传输
 
-[Interrupt](https://github.com/Autovy/assembly_learning/blob/main/Interrupt)：安装中断例程，让下面的Interrupt_call进行调用
+[Interrupt](https://github.com/Autovy/assembly_learning/blob/main/Interrupt.asm)：安装中断例程，让下面的Interrupt_call进行调用
 
-[Interrupt_call](https://github.com/Autovy/assembly_learning/blob/main/Interrupt_call)：调用自定义的中断例程
+[Interrupt_call](https://github.com/Autovy/assembly_learning/blob/main/Interrupt_call.asm)：调用自定义的中断例程
 
