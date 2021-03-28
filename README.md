@@ -35,19 +35,19 @@
 
 [div_ram](https://github.com/Autovy/assembly_learning/blob/main/div_ram.asm)：dd伪指令的介绍，除法与内存单元的联合使用 :(
 
-[review]((https://github.com/Autovy/assembly_learning/blob/main/review.asm)：数据读取存放复习案例
+[review](https://github.com/Autovy/assembly_learning/blob/main/review.asm)：数据读取存放复习案例
 
-[offset]((https://github.com/Autovy/assembly_learning/blob/main/offset.asm)：利用offset获得偏移地址，实现指令复制
+[offset](https://github.com/Autovy/assembly_learning/blob/main/offset.asm)：利用offset获得偏移地址，实现指令复制
 
-[jmp]((https://github.com/Autovy/assembly_learning/blob/main/jmp.asm)：jmp跳转语句例子
+[jmp](https://github.com/Autovy/assembly_learning/blob/main/jmp.asm)：jmp跳转语句例子
 
-[jcxz]((https://github.com/Autovy/assembly_learning/blob/main/jcxz.asm)：条件跳转语句jcxz例子
+[jcxz](https://github.com/Autovy/assembly_learning/blob/main/jcxz.asm)：条件跳转语句jcxz例子
 
-[ret]((https://github.com/Autovy/assembly_learning/blob/main/ret.asm)：ret跳转语句，利用栈中数据取出ip实现跳转
+[ret](https://github.com/Autovy/assembly_learning/blob/main/ret.asm)：ret跳转语句，利用栈中数据取出ip实现跳转
 
-[retf]((https://github.com/Autovy/assembly_learning/blob/main/retf.asm)：retf跳转语句，利用栈中数据取出cs:ip实现跳转
+[retf](https://github.com/Autovy/assembly_learning/blob/main/retf.asm)：retf跳转语句，利用栈中数据取出cs:ip实现跳转
 
-[call&ret]((https://github.com/Autovy/assembly_learning/blob/main/call&ret.asm)：call与ret配合使用，实现函数调用
+[call&ret](https://github.com/Autovy/assembly_learning/blob/main/call&ret.asm)：call与ret配合使用，实现函数调用
 
 [mul](https://github.com/Autovy/assembly_learning/blob/main/mul.asm)：mul指令实现乘法
 
